@@ -1,0 +1,8 @@
+{
+  "name": "药小助 (MediCare)",
+  "description": "专为老年人设计的智能用药助手，大字体、高对比度、语音交互。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
